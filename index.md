@@ -1,12 +1,12 @@
 ### Education
 
 National Taiwan University of Science and Technology, Taiwan<br>
-(台灣科技大學)<p>
+(台灣科技大學)
 
 Master of Engineering in Automation and Control (2019 - 2021)
 
 National Taipei University of Science and Technology, Taiwan<br>
-(台北科技大學)<p>
+(台北科技大學)
 
 Bachelor of Electrical Engineering (2013 - 2018)
 ### Programing Language
