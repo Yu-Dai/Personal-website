@@ -1,9 +1,12 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/Yu-Dai/Personal-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#National Taiwan University of Science and Technology, Taiwan(台灣科技大學)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Master of Engineering in Automation and Control (2019 - 2021)
 
+#National Taipei University of Science and Technology, Taiwan(台北科技大學)
+
+Bachelor of Electrical Engineering (2013 - 2018)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
